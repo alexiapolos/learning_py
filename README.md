@@ -1,2 +1,2 @@
 # learning_py
-repository for leanrning python language skills and libraries
+repository for learning more about python language skills and libraries
